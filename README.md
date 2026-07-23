@@ -1,28 +1,832 @@
-# 💫 About Me:
-Hi, I'm Danish Jani, professionally known as DJ OFFICIAL.<br><br>I build modern digital solutions for live streaming ecosystems, agency management, creator communities, and digital branding.<br><br>My work combines frontend web development, UI/UX design, SEO, branding, and management systems to create scalable digital products.<br><br>I enjoy transforming ideas into professional websites and management dashboards while continuously learning and improving my technical skills.
+<!-- ===================================================== -->
+<!--               DJ OFFICIAL | GITHUB PROFILE             -->
+<!--               Founder & CEO – DJ Agency               -->
+<!-- ===================================================== -->
 
+<h1 align="center">
+  👋 Assalam O Alaikum, I'm <strong>DJ OFFICIAL — Danish Jani</strong>
+</h1>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Janigno1 ) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Janigno1 ) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Janigno1 ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Janigno1 ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Danishjanig ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Janigno1 ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Janigno1 ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Janigno1 ) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Janigno1 ) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Janigno1 ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Janigno1 ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Janigno1 ) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Janigno1 ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Janigno1 ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Mrdanishjani ) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Janigno1 ) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Janigno1 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Danishdjofficial@gmail.com) 
+<h3 align="center">
+Global Digital Builder • Live Streaming Operations Specialist • Web Developer • Digital Branding • Agency Founder
+</h3>
 
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=rhinoceros&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Janigno1 &theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Janigno1 &theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Janigno1 &theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Janigno1 &limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+Helping build digital experiences, live streaming communities, agency operations, and modern web solutions.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Janigno1 &icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Janigno1 ) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/janigno1 ) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Janigno1 ) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Janigno1 ) 
+# 🌍 About Me
 
-  
-<!-- Proudly created with by (DANISH JANI) -->
+I'm **Danish Jani**, professionally known as **DJ OFFICIAL**, a digital creator and founder of **DJ Agency**.
+
+My work combines **web development**, **digital branding**, **creative design**, and **live streaming operations**. I enjoy building modern websites, improving user experience, supporting creator communities, and developing digital solutions for live streaming ecosystems.
+
+I focus on creating clean, responsive, and SEO-friendly web projects while continuously expanding my technical and business skills.
+
+---
+
+# 💼 Areas of Expertise
+
+- 🌐 Frontend Web Development
+- 🎨 UI / UX Design
+- 🚀 Technical SEO
+- 📈 Digital Branding
+- 👥 Agency Operations
+- 🎙️ Live Streaming Communities
+- 💬 1v1 Calling & Voice Party Ecosystems
+- 🤝 Creator Recruitment & Community Growth
+- 🖥️ GitHub & Netlify Deployment
+- 🎬 Creative Media Production
+
+---
+
+# 🎯 Mission
+
+To build professional digital products, support creator communities, and continuously improve my skills in technology, branding, and online business while contributing meaningful projects to the open-source ecosystem.
+
+---
+
+# 🌐 Official Portfolio
+
+| Website | Purpose |
+|---------|---------|
+| https://mrdanish.netlify.app | Personal Portfolio |
+| https://djagency.netlify.app | DJ Agency |
+| https://djofficial.netlify.app | Agency Management Portal (In Development) |
+| https://poppolive.netlify.app | Poppo Live Project |
+| https://timolivee.netlify.app | TIMO Live Project |
+| https://lollipoplive.netlify.app | Lollipop Live Project |
+| https://joyolive.netlify.app | JOYO Live Project |
+| https://sanolive.netlify.app | Sano Live Project |
+| https://kukielive.netlify.app | Kukie Live Project |
+| https://zerolive.netlify.app | ZERO Live Project |
+| https://crushlivee.netlify.app | Crush Live Project |
+| https://partystar.netlify.app | Party Star Project |
+| https://boomlive.netlify.app | Boom Live Project |
+| https://chametlive.netlify.app | Chamet Live Project |
+
+---
+
+# ⭐ Professional Focus
+
+✔ Modern Website Development
+
+✔ Responsive UI Design
+
+✔ Digital Brand Building
+
+✔ SEO Optimization
+
+✔ GitHub Project Management
+
+✔ Live Streaming Ecosystems
+
+✔ Community Operations
+
+✔ Creator Growth
+
+✔ Continuous Learning
+
+---
+
+> "Build with integrity, learn continuously, and let your work speak through quality."
+>
+> <!-- ===================================================== -->
+<!--           PROFESSIONAL SKILLS & TECH STACK            -->
+<!-- ===================================================== -->
+
+# 🚀 Professional Skills
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+## 💻 Frontend Development
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Responsive Web Design
+- Progressive Web Apps (PWA)
+- Mobile-First Design
+- Cross-Browser Compatibility
+- GitHub Pages
+- Netlify Deployment
+
+</td>
+
+<td valign="top" width="50%">
+
+## ⚙️ Development Workflow
+
+- Git & GitHub
+- Repository Management
+- Version Control
+- Project Documentation
+- Markdown
+- Website Optimization
+- Performance Improvement
+- Debugging
+- Continuous Learning
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎨 Creative & Digital Skills
+
+- 🎨 Adobe Photoshop
+- 🖌 Adobe Illustrator
+- 🎬 Adobe Premiere Pro
+- ✨ Graphic Design
+- 🎥 Video Editing
+- 🖼 Brand Identity Design
+- 📱 Social Media Graphics
+- 🌐 Landing Page Design
+- 📢 Digital Marketing Assets
+
+---
+
+# 🌍 Live Streaming Operations
+
+I enjoy working on digital projects related to online creator communities and live-streaming ecosystems.
+
+Areas of experience include:
+
+- Community Growth
+- Agency Operations
+- Host Recruitment
+- Team Coordination
+- Creator Support
+- Campaign Planning
+- Event Coordination
+- Digital Promotion
+- Community Engagement
+
+---
+
+# 🧠 Current Learning Journey
+
+I continuously improve my knowledge in:
+
+- Modern JavaScript
+- Firebase
+- Technical SEO
+- Web Performance
+- UI / UX Design
+- Accessibility
+- Digital Branding
+- Open Source Collaboration
+- AI Productivity Tools
+
+---
+
+# 🛠 Technology Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Hosting & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=github,firebase,netlify" />
+</p>
+
+### Design Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=ps,ai" />
+</p>
+
+---
+
+# 📈 Development Principles
+
+✔ Clean Code
+
+✔ Responsive Design
+
+✔ User Experience
+
+✔ Performance First
+
+✔ SEO Friendly
+
+✔ Accessibility
+
+✔ Continuous Improvement
+
+✔ Documentation
+
+✔ Collaboration
+
+---
+
+# 🎯 Professional Interests
+
+- 🌐 Web Development
+- 🎨 UI Design
+- 🚀 SEO
+- 📱 Digital Products
+- 👥 Community Building
+- 🎬 Creative Media
+- 💡 Technology Innovation
+- 🌍 Digital Entrepreneurship
+
+---
+
+# 🌟 What I'm Building
+
+Current projects include:
+
+- Personal Portfolio
+- DJ Agency Platform
+- DJ Official Management Portal
+- Live Streaming Information Websites
+- SEO-Friendly Landing Pages
+- Digital Branding Assets
+- Community Management Resources
+- Future Open-Source Web Tools
+
+---
+
+# 🤝 Open to Collaboration
+
+I'm interested in collaborating on:
+
+- Frontend Web Projects
+- UI / UX Improvements
+- Open Source Projects
+- Website Optimization
+- Technical SEO
+- Digital Branding
+- Community-Oriented Platforms
+
+- <!-- ===================================================== -->
+<!--            FEATURED PROJECTS & PORTFOLIO              -->
+<!-- ===================================================== -->
+
+# 🌐 Featured Digital Projects
+
+This portfolio represents my ongoing work in **web development**, **digital branding**, and **live-streaming ecosystem projects**. Each website is designed to improve user experience, present information professionally, and strengthen my practical development skills.
+
+---
+
+# 👨‍💻 Personal Portfolio
+
+### 🌍 Mr Danish
+
+**Website**
+
+https://mrdanish.netlify.app
+
+### Overview
+
+My primary personal portfolio showcasing my work, technical skills, projects, learning journey, and digital presence.
+
+### Focus
+
+• Personal Branding
+
+• Responsive Design
+
+• Technical SEO
+
+• Performance Optimization
+
+• Professional Portfolio
+
+---
+
+# 🏢 DJ Agency
+
+### Website
+
+https://djagency.netlify.app
+
+### Overview
+
+A digital agency project focused on branding, web presence, and showcasing agency-related services and community initiatives.
+
+### Focus
+
+• Agency Branding
+
+• Professional Presentation
+
+• Website Development
+
+• Business Identity
+
+---
+
+# 🚀 DJ Official Management Portal
+
+### Website
+
+https://djofficial.netlify.app
+
+### Status
+
+🚧 Under Development
+
+### Overview
+
+A management dashboard project intended to demonstrate administrative interfaces, analytics concepts, and modern dashboard design.
+
+### Planned Features
+
+• Dashboard UI
+
+• Team Management Concepts
+
+• Statistics
+
+• Analytics
+
+• User Profiles
+
+• Role-Based Interface Concepts
+
+• Responsive Layout
+
+---
+
+# 📺 Live Streaming Ecosystem Projects
+
+These websites explore different live-streaming platforms through informational pages, branding concepts, and web design practice.
+
+---
+
+## Poppo Live
+
+🌍 https://poppolive.netlify.app
+
+Focus:
+
+• Landing Page Design
+
+• Information Architecture
+
+• Responsive UI
+
+---
+
+## TIMO Live
+
+🌍 https://timolivee.netlify.app
+
+Focus:
+
+• Platform Showcase
+
+• Community Information
+
+• User Experience
+
+---
+
+## Lollipop Live
+
+🌍 https://lollipoplive.netlify.app
+
+Focus:
+
+• Modern UI
+
+• Responsive Layout
+
+• Branding
+
+---
+
+## JOYO Live
+
+🌍 https://joyolive.netlify.app
+
+Focus:
+
+• Website Design
+
+• Landing Page
+
+---
+
+## Sano Live
+
+🌍 https://sanolive.netlify.app
+
+Focus:
+
+• Web Development
+
+• Digital Presentation
+
+---
+
+## Kukie Live
+
+🌍 https://kukielive.netlify.app
+
+Focus:
+
+• Interactive UI
+
+• Platform Information
+
+---
+
+## ZERO Live
+
+🌍 https://zerolive.netlify.app
+
+Focus:
+
+• Modern Frontend
+
+• Community-Oriented Layout
+
+---
+
+## Crush Live
+
+🌍 https://crushlivee.netlify.app
+
+Focus:
+
+• Responsive Interface
+
+• Branding Concepts
+
+---
+
+## Party Star
+
+🌍 https://partystar.netlify.app
+
+Focus:
+
+• Digital Product Showcase
+
+• Modern UI
+
+---
+
+## Boom Live
+
+🌍 https://boomlive.netlify.app
+
+Focus:
+
+• Landing Page
+
+• Performance Optimization
+
+---
+
+## Chamet Live
+
+🌍 https://chametlive.netlify.app
+
+Focus:
+
+• Platform Presentation
+
+• Responsive Website
+
+---
+
+# 🎯 Development Goals
+
+Current priorities include:
+
+✔ Building scalable web projects
+
+✔ Improving technical SEO
+
+✔ Strengthening frontend development skills
+
+✔ Enhancing responsive design
+
+✔ Creating accessible interfaces
+
+✔ Publishing high-quality open-source work
+
+✔ Expanding professional documentation
+
+---
+
+# 🛣️ Project Roadmap
+
+## Completed
+
+✅ Portfolio Website
+
+✅ Agency Website
+
+✅ Multiple Platform Information Websites
+
+✅ GitHub Projects
+
+---
+
+## In Progress
+
+🚧 DJ Official Management Portal
+
+🚧 UI Improvements
+
+🚧 Documentation Enhancements
+
+🚧 SEO Optimization
+
+🚧 Performance Improvements
+
+---
+
+## Future Goals
+
+🔹 Analytics Dashboard
+
+🔹 Progressive Web Apps (PWA)
+
+🔹 Firebase Integration
+
+🔹 Authentication System
+
+🔹 Advanced UI Components
+
+🔹 Open-Source Utilities
+
+🔹 Interactive Dashboards
+
+🔹 Developer Resources
+
+---
+
+# 🌍 Philosophy
+
+> I believe technology should combine functionality, performance, accessibility, and thoughtful design. Every project is an opportunity to learn, improve, and create value through practical digital solutions.
+>
+> <!-- ===================================================== -->
+<!--          GITHUB ANALYTICS & DEVELOPMENT DATA          -->
+<!-- ===================================================== -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=JANIGNO1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANIGNO1&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=JANIGNO1&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=JANIGNO1&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=JANIGNO1&theme=flat&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📅 Development Activity
+
+### Areas I Continue to Improve
+
+- 🌐 Frontend Development
+- ⚡ Performance Optimization
+- 🎨 User Interface Design
+- 📱 Responsive Web Development
+- 🔍 Technical SEO
+- ☁️ Firebase & Cloud Services
+- 🧩 Git & GitHub Workflows
+- 📚 Documentation
+- ♿ Accessibility
+- 🚀 Modern JavaScript
+
+---
+
+# 💡 Development Philosophy
+
+```
+Think → Plan → Design → Build → Test → Improve → Repeat
+```
+
+I believe sustainable software is built through continuous learning, clear documentation, thoughtful design, and iterative improvement.
+
+---
+
+# 📌 Repository Standards
+
+Every major repository aims to include:
+
+✅ Professional README
+
+✅ Clear Project Structure
+
+✅ Responsive Design
+
+✅ SEO-Friendly Practices
+
+✅ Performance Optimization
+
+✅ Maintainable Code
+
+✅ Future Roadmap
+
+✅ Screenshots & Documentation
+
+---
+
+# 🌍 Open Source Goals
+
+My long-term goals include:
+
+- Sharing useful web development projects
+- Publishing reusable UI components
+- Improving project documentation
+- Building accessible interfaces
+- Exploring progressive web technologies
+- Learning through collaboration
+- Contributing back to the developer community
+
+---
+
+# 🚀 Current Focus
+
+🔹 Portfolio Enhancement
+
+🔹 Dashboard Development
+
+🔹 Responsive UI
+
+🔹 SEO Optimization
+
+🔹 Project Documentation
+
+🔹 GitHub Best Practices
+
+🔹 Performance Improvements
+
+🔹 Continuous Skill Development
+
+---
+
+# 📖 Learning Mindset
+
+> "Every project is another opportunity to become a better developer."
+
+I enjoy learning new technologies, refining existing skills, and applying best practices to create reliable, maintainable, and user-focused web experiences.
+
+---
+
+# 📬 Let's Connect
+
+If you're interested in web development, digital branding, open-source collaboration, or discussing ideas around creator-focused platforms, feel free to explore my projects and connect through my portfolio.
+
+🌐 Portfolio: https://mrdanish.netlify.app
+
+<!-- ===================================================== -->
+<!--              FINAL SECTION • CONNECT & FOOTER         -->
+<!-- ===================================================== -->
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://mrdanish.netlify.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/JANIGNO1">
+<img src="https://img.shields.io/badge/GitHub-JANIGNO1-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://djagency.netlify.app">
+<img src="https://img.shields.io/badge/DJ_Agency-Official_Website-6A1B9A?style=for-the-badge" />
+</a>
+
+<a href="https://djofficial.netlify.app">
+<img src="https://img.shields.io/badge/Management_Portal-Under_Development-FF9800?style=for-the-badge" />
+</a>
+
+</p>
+
+---
+
+# 🌐 Featured Platforms
+
+| Project | Status |
+|---------|--------|
+| 🌍 Mr Danish Portfolio | ✅ Active |
+| 🏢 DJ Agency | ✅ Active |
+| 📊 DJ Official Dashboard | 🚧 Under Development |
+| 📺 Poppo Live Project | ✅ Active |
+| 🎙 TIMO Live Project | ✅ Active |
+| 🍭 Lollipop Live Project | ✅ Active |
+| 🎉 JOYO Live Project | ✅ Active |
+| 🌟 Sano Live Project | ✅ Active |
+| 💬 Kukie Live Project | ✅ Active |
+| 🚀 ZERO Live Project | ✅ Active |
+| ❤️ Crush Live Project | ✅ Active |
+| 🎊 Party Star Project | ✅ Active |
+| 💥 Boom Live Project | ✅ Active |
+| 📱 Chamet Live Project | ✅ Active |
+
+---
+
+# 📅 Vision
+
+My objective is to continue developing modern web applications, strengthen my technical expertise, document my work clearly, and contribute projects that demonstrate practical skills in web development, digital branding, and creator-focused platforms.
+
+---
+
+# 🚀 Current Focus
+
+- Building responsive web applications
+- Enhancing UI/UX quality
+- Improving technical SEO
+- Expanding project documentation
+- Learning modern frontend technologies
+- Developing scalable dashboard interfaces
+- Growing my open-source portfolio
+
+---
+
+# 📌 Professional Values
+
+- Integrity
+- Continuous Learning
+- User-Centered Design
+- Performance
+- Accessibility
+- Collaboration
+- Clean Documentation
+- Long-Term Improvement
+
+---
+
+# 💼 Profile Summary
+
+**Name:** Danish Jani (DJ OFFICIAL)
+
+**Role:** Founder – DJ Agency
+
+**Primary Interests:**
+- Frontend Web Development
+- Digital Branding
+- UI/UX Design
+- Technical SEO
+- Community-Focused Digital Projects
+
+**Portfolio:**
+https://mrdanish.netlify.app
+
+---
+
+<p align="center">
+
+### ⭐ Thank you for visiting my GitHub profile!
+
+If you find my projects interesting, consider exploring my repositories, following my development journey, or leaving a ⭐ on projects you enjoy.
+
+**"Keep building. Keep learning. Keep improving."**
+
+</p>
